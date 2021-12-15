@@ -1,0 +1,118 @@
+@font-face {
+	font-family: "planet";
+	src: url(../fonts/planet.ttf);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
+
+body {
+	background-color: #000000;
+}
+
+p {
+	color: white;
+}
+
+/* Navbar */
+
+.navbar {
+	color: white;
+}
+
+.navbar-nav {
+	color: white;
+	text-decoration: none;
+}
+
+.navbar-collapse {
+	justify-content: right;
+}
+
+.nav-link {
+	color: white;
+}
+
+.nav-link:hover {
+	color: gray;
+}
+
+.logo-nav {
+	width: 60%;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+}
+
+.navbar-toggler {
+	background-color: white;
+}
+
+/* Navbar Ends */
+
+/* Hero */
+
+.logo-index {
+	width: 100%;
+}
+
+.btn {
+	border-color: white;
+	color: white;
+}
+
+.btn:hover {
+	background-color: white;
+	color: black;
+}
+
+/* Nosotros */
+
+.nosotros {
+	margin-top: 100px;
+}
+
+.texto-nosotros {
+	margin-top: 150px;
+}
+
+.form-main {
+	background-color: #090909;
+}
+
+/* Footer */
+
+.footer-bg {
+	background-color: #090909;
+}
+
+/* Diseños */
+
+.titulo-h2 {
+	font-family: planet;
+	color: white;
+	font-size: 300%;
+}
+.card {
+	background-color: black;
+	justify-content: center;
+}
+
+.card-title {
+	font-family: "Noto Sans JP", sans-serif;
+	font-weight: 700;
+	color: white;
+}
+
+/* Remeras */
+
+.remeras-titulo {
+	font-family: planet;
+	color: white;
+	text-align: center;
+}
